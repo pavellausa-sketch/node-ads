@@ -16,5 +16,3 @@ It reads basic reports and can create/update/pause campaigns, ad groups, ads, ke
 **Tech**
 - Node.js (scripts only; not a hosted application).
 
-**Contact**
-youremail@example.com
